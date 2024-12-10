@@ -5,6 +5,7 @@ Y editar el archivo, en el servicio y agregar annotations
 
 **annotations:** 
   **service.beta.kubernetes.io/oci-load-balancer-internal: "true"**
+  
   **service.beta.kubernetes.io/oci-load-balancer-subnet1: 'ocid1.subnet.oc1.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'**
 
 ```
